@@ -5,3 +5,6 @@ Git is a Reliable
 Git is a Non-linear
 
 creating pull request
+
+Git is a security
+Git is a Easier Branching
